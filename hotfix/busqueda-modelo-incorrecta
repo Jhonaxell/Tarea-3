@@ -1,0 +1,4 @@
+Corregir error crítico en la función de búsqueda de vehículos
+
+Se corrigió un error que causaba que la función de búsqueda de vehículos no mostrara resultados cuando se realizaba una búsqueda por modelo. 
+Ahora la búsqueda por modelo funciona correctamente y muestra los resultados esperados.
